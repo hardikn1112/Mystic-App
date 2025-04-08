@@ -20,7 +20,7 @@ import CompHome from '../Assets/CompleteHome.jpg';
 import AudioSys from '../Assets/AudioSys.jpeg';
 import VisualExp from '../Assets/VisualExp.jpg';
 import HomeTheat from '../Assets/HomeTheat.jpg';
-import customHomeTheat from '../Assets/CustomHomeTheat.jpg';
+import CustomHomeTheat from '../Assets/CustomHomeTheat.jpg';
 import BiometricLock from '../Assets/BiometricLock.jpeg';
 import FireAlarm from '../Assets/FireAlarm.jpg';
 import CCTV  from '../Assets/CCTV.jpeg';
@@ -226,7 +226,7 @@ const solutionsData = {
           "Media Rooms & Living Room Theatres – High-performance setups for any space",
           "Hidden & Motorized Solutions – Concealed speakers and retractable screens"
         ],
-        image: customHomeTheat
+        image: CustomHomeTheat
       }
     ],
     whyChooseUs: [
