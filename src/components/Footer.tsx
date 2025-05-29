@@ -72,9 +72,10 @@ const Footer = () => {
             <h4 className="font-medium text-lg mb-4">Contact</h4>
             <address className="not-italic text-slate-300">
               <p className="mb-2">123 Smart City</p>
-              <p className="mb-4">Ahmedabad, Gujarat - 380005</p>
-              <p className="mb-2">Phone: +91 94150xxxxx</p>
-              <p>Email: contact@mysticinfosystems.com</p>
+              <p className="mb-4">SF-35, Shakti Arcade,Above ICICI bank,<br/> Near Shukan mall, Science City road, <br/>
+                  Ahmedabad, Gujarat - 380060</p>
+              <p className="mb-2">Phone: +91 9274500305</p>
+              <p>Email: info@mysticinfosystem.in</p>
             </address>
           </div>
         </div>
