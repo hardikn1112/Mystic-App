@@ -22,6 +22,7 @@ import VisualExp from '../Assets/VisualExp.jpg';
 import HomeTheat from '../Assets/HomeTheat.jpg';
 import CustomHomeTheat from '../Assets/CustomHomeTheat.jpg';
 import BiometricLock from '../Assets/BiometricLock.jpeg';
+import TimeAtnd from '../Assets/TimeAtnd.jpg';
 import FireAlarm from '../Assets/FireAlarm.jpg';
 import CCTV  from '../Assets/CCTV.jpeg';
 import PAS from '../Assets/PAS.jpg';
@@ -252,6 +253,16 @@ const solutionsData = {
           "Mobile & Card-Based Access – Flexible entry options for businesses and homes"
         ],
         image: BiometricLock
+      },
+      {
+        title: "Time Attendance System",
+        description: "Smart Biometric Entry System for easy attendance:",
+        benefits: [
+          "Biometric Clock-In & Out – Accurate time capture, preventing buddy punching",
+          "Automated Payroll & Reporting – Streamlined data for workforce management",
+          "Leave & Shift Integration – Simplified scheduling and absence tracking"
+        ],
+        image: TimeAtnd
       },
       {
         title: "Fire Alarm Systems",
