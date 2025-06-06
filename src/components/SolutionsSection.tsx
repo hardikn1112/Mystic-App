@@ -408,7 +408,7 @@ const SolutionsSection = () => {
           </TabsList>
         
           {Object.keys(solutionsData).map((tab) => (
-            <TabsContent key={tab} value={tab} className="mt-6">
+            <TabsContent key={tab} value={tab} className="mt-[10rem]">
               <AnimatePresence mode="wait">
                 <motion.div
                   key={tab}
