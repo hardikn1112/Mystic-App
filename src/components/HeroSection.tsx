@@ -24,7 +24,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-lg text-slate-600 dark:text-slate-300 max-w-lg">
-              Mystic Infosystems delivers cutting-edge home automation solutions that blend 
+              Mystic Info System delivers cutting-edge home automation solutions that blend 
               seamlessly with your lifestyle, providing unparalleled comfort, security, and efficiency.
             </p>
             

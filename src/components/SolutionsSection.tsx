@@ -31,7 +31,7 @@ const solutionsData = {
   "gate-automation": {
     title: "Gate Automation",
     description: "Secure, Smart & Effortless Access",
-    intro: "At Mystic Infosystem, we offer premium gate automation solutions designed for security, convenience, and elegance in residential, commercial, and industrial spaces. We use high-quality Italian automation systems, ensuring superior performance, durability, and seamless operation.",
+    intro: "At Mystic Info System, we offer premium gate automation solutions designed for security, convenience, and elegance in residential, commercial, and industrial spaces. We use high-quality Italian automation systems, ensuring superior performance, durability, and seamless operation.",
     features: [
       {
         title: "Sliding Gates",
@@ -86,7 +86,7 @@ const solutionsData = {
   "home-automation": {
     title: "Home Automation",
     description: "Smart, Efficient & Future-Ready Living",
-    intro: "At Mystic Infosystem, we transform homes into intelligent living spaces with our state-of-the-art home automation solutions. Whether you seek comfort, security, or energy efficiency, our customized automation systems give you complete control over your home with just a touch.",
+    intro: "At Mystic Info System, we transform homes into intelligent living spaces with our state-of-the-art home automation solutions. Whether you seek comfort, security, or energy efficiency, our customized automation systems give you complete control over your home with just a touch.",
     features: [
       {
         title: "Smart Lighting Control",
@@ -180,7 +180,7 @@ const solutionsData = {
   "home-theatre": {
     title: "Home Theatre",
     description: "Immersive Entertainment at Its Best",
-    intro: "Transform your space into a cinematic masterpiece with Mystic Infosystem's high-end home theatre solutions. Whether you're a movie enthusiast, a music lover, or a gaming fanatic, our state-of-the-art audio-visual systems deliver unmatched sound clarity, stunning visuals, and seamless integration for the ultimate home entertainment experience.",
+    intro: "Transform your space into a cinematic masterpiece with Mystic Info System's high-end home theatre solutions. Whether you're a movie enthusiast, a music lover, or a gaming fanatic, our state-of-the-art audio-visual systems deliver unmatched sound clarity, stunning visuals, and seamless integration for the ultimate home entertainment experience.",
     brands: [
       "Sonance – Premium architectural speakers for high-fidelity audio",
       "JBL – Powerful, dynamic sound systems for immersive experiences",
@@ -237,12 +237,12 @@ const solutionsData = {
       "Expert Installation & Support – Professional setup, calibration, and after-sales service",
       "Luxury & Innovation – Elevate your home entertainment experience with cutting-edge solutions"
     ],
-    callToAction: "Upgrade to the Ultimate Home Theatre Experience! Bring the magic of the big screen into your home with Mystic Infosystem's high-performance home theatre solutions."
+    callToAction: "Upgrade to the Ultimate Home Theatre Experience! Bring the magic of the big screen into your home with Mystic Info System's high-performance home theatre solutions."
   },
   "low-voltage-lab": {
     title: "Low Voltage Systems",
     description: "Smart, Secure & Efficient",
-    intro: "At Mystic Infosystem, we offer advanced low-voltage solutions designed to enhance security, communication, and automation across residential, commercial, and industrial spaces. Our cutting-edge systems provide reliability, efficiency, and seamless integration with modern technology.",
+    intro: "At Mystic Info System, we offer advanced low-voltage solutions designed to enhance security, communication, and automation across residential, commercial, and industrial spaces. Our cutting-edge systems provide reliability, efficiency, and seamless integration with modern technology.",
     features: [
       {
         title: "Biometric Access Control",
@@ -302,7 +302,7 @@ const solutionsData = {
       "24/7 Support – Round-the-clock assistance for critical systems",
       "Compliance & Standards – All systems meet or exceed industry regulations and standards"
     ],
-    callToAction: "Enhance Your Property's Security & Efficiency! Implement advanced low-voltage solutions from Mystic Infosystem for a safer, smarter environment."
+    callToAction: "Enhance Your Property's Security & Efficiency! Implement advanced low-voltage solutions from Mystic Info System for a safer, smarter environment."
   }
 };
 
@@ -518,7 +518,7 @@ const SolutionsSection = () => {
                   </div>
 
                   <div className="mt-16 max-w-4xl mx-auto">
-                    <h4 className="text-xl font-semibold mb-6">Why Choose Mystic Infosystem for {solutionsData[tab].title}?</h4>
+                    <h4 className="text-xl font-semibold mb-6">Why Choose Mystic Info System for {solutionsData[tab].title}?</h4>
                     <div className="bg-white dark:bg-slate-800 rounded-xl shadow-md p-6">
                       <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {solutionsData[tab].whyChooseUs.map((reason, index) => (

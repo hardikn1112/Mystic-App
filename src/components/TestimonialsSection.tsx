@@ -6,7 +6,7 @@ const testimonials = [
   {
     name: "Manoj Kumar",
     role: "Homeowner",
-    content: "Mystic Infosystems transformed our home with their gate and security automation. Their team was professional, knowledgeable, and delivered exactly what we needed.",
+    content: "Mystic Info System transformed our home with their gate and security automation. Their team was professional, knowledgeable, and delivered exactly what we needed.",
     rating: 5
   },
   {
@@ -44,7 +44,7 @@ const TestimonialsSection = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg text-slate-600 dark:text-slate-400"
           >
-            Read testimonials from our satisfied clients about their experience with Mystic Infosystems.
+            Read testimonials from our satisfied clients about their experience with Mystic Info Systems.
           </motion.p>
         </div>
         

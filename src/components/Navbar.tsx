@@ -35,8 +35,8 @@ const Navbar = () => {
           <div className="flex items-center">
             <a href="/" className="flex items-center">
               <span className="text-2xl font-poppins font-bold bg-gradient-to-r from-mystic-500 to-blue-600 bg-clip-text text-transparent">
-                Mystic
-                <span className="font-normal ml-1">Infosystems</span>
+                Mystic 
+                <span className="font-normal ml-1"> Info system</span>
               </span>
             </a>
           </div>

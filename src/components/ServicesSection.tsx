@@ -67,7 +67,7 @@ const ServicesSection = () => {
             transition={{ duration: 0.5 }}
             className="text-3xl sm:text-4xl font-bold mb-6 text-blue-800"
           >
-            Why Choose <span className="gradient-text">Mystic Infosystems</span>
+            Why Choose <span className="gradient-text">Mystic Info System</span>
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
