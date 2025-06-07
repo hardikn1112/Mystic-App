@@ -28,7 +28,7 @@ const ContactSection = () => {
     setSuccess(false);
 
     try {
-      const response = await fetch('https://formspree.io/f/xwpogjgq', {
+      const response = await fetch('https://formspree.io/f/xzzgdojy', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
